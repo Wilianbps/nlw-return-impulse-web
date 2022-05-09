@@ -2,7 +2,7 @@
 <p align="center">Trilha Impulse do NLW Return.</p>
 
 <p align="center">
-  <img src="./.github/icon.svg" />
+  <img src="./.github/nlw-impulse.jpg" />
 </p>
 
 ## Sobre :pencil:
