@@ -10,7 +10,7 @@
 Projeto realizado durante a trilha impulse do evento Next Level Week, realizado pela [Rocketseat](https://www.rocketseat.com.br/).
 O projeto é dividido em frontend e backend.
 
-## Tecnologias usadas :rocket:
+## Tecnologias Utilizadas :rocket:
 
 - [Frontend 🌐](./frontend):
   - [React](https://pt-br.reactjs.org/)
