@@ -20,5 +20,5 @@ O projeto é dividido em frontend e backend.
 - [Backend 💻](./backend):
   - [Express](https://expressjs.com/pt-br/)
   - [Typescript](https://www.typescriptlang.org/)
-  - [Primsa](https://www.prisma.io/)
+  - [Prisma](https://www.prisma.io/)
   - [Jest](https://jestjs.io/pt-BR/)
