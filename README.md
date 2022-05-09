@@ -8,16 +8,16 @@
 ## Sobre :pencil:
 
 Códigos realizados durante a trilha impulse do evento Next Level Week, realizado pela [Rocketseat](https://www.rocketseat.com.br/).
-O projeto é dividido em, _front-end_, _back-end_ e _mobile_. Cada parte está em um diretório separado.
+O projeto é dividido em, frontend e backend. Cada parte está em um diretório separado.
 
 ## Tecnologias usadas :rocket:
 
-- [Web 🌐](./web):
+- [Frontend 🌐](./frontend):
   - [React](https://pt-br.reactjs.org/)
   - [Typescript](https://www.typescriptlang.org/)
   - [Tailwindcss](https://tailwindcss.com/)
   - [Phosphor Icons](https://phosphoricons.com/)
-- [Server 💻](./server):
+- [Backend 💻](./backend):
   - [Express](https://expressjs.com/pt-br/)
   - [Typescript](https://www.typescriptlang.org/)
   - [Primsa](https://www.prisma.io/)
